@@ -5,5 +5,5 @@ _Navigate easily through the quick links below to access each assignment. Once y
 
 | Unit  | Assignment | Soution |
 | ------------- | ------------- | ------------- |
-| Terminal and Bash  | Content Cell  | sdfhjh |
+| Terminal and Bash  | Terminal and Bash.md  | sdfhjh |
 | Content Cell  | Content Cell  |   jhfjhfhj |
