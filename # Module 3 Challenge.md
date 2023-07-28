@@ -1,4 +1,4 @@
-# Module 3 Challenge
+Terminal and Bash
 
 # **A High-Stakes Investigation**
 
