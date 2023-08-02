@@ -167,6 +167,9 @@ sudo aureport -au
 ```bash
 sudo aureport -m
 ```
+![auditreport](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/a763adbe-0f9e-4972-a494-aa7645c33984)
+
+
 
 8. Command to use `auditd` to watch `/var/log/cron`:
 ```bash
