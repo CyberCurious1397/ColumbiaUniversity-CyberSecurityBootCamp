@@ -1,4 +1,4 @@
-## Week 5 Homework Submission File: Archiving and Logging Data
+## Week 5 Challenge Submission File: Archiving and Logging Data
 
 Please edit this file by adding the solution commands on the line below the prompt.
 
