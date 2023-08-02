@@ -56,21 +56,31 @@ Complete the following steps to set up your Vagrant local machine:
     * `mkdir -p $HOME/Documents/Cybersecurity-Bootcamp/Module6-Challenge`
     * `cd $HOME/Documents/Cybersecurity-Bootcamp/Module6-Challenge`
     * The following image shows this process:
+      
+      ![Make_HW_Dir](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/25a9b312-5e11-4e8f-a9d7-baf9a092bfea)
+
 
     * Then, use Windows File Explorer or MacOS Finder to move the Vagrantfile to the new directory, OR use the following `curl` command within the newly created Challenge directory to download the Vagrantfile:
         * `curl -L https://gist.githubusercontent.com/eddimus/3de714b864462a05d383dea4ee76346d/raw/414c1121c27eeac40cfbbe63b8407223c30300e8/Vagrantfile -o Vagrantfile`
-        * The following image shows this process: 
+        * The following image shows this process:
+          
+          ![Curl_Vagrantfile](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/b88e4d68-b4de-4420-b7c5-f86539d46a9d)
 
 5. With your terminal/Git Bash still working out of the newly created Challenge directory, launch the lab by running `vagrant up`. Leave this terminal window open.
     * Note that after the machines are set up, you can shut them both down by running the command `vagrant halt`.
     * If you have any issues during the installation process, please reach out to your instructor or TA. It is most likely due to a `root` ownership error.
     * Depending on your internet connection and your local machine, it may take a few minutes for Vagrant and VirtualBox to set up your machines.
     * During this process, Vagrant is setting up two VirtualBox VMs and giving them static IP addresses for you to use during this assignment.
-6. After Vagrant is done setting up the machines, you should have a Target Machine and an Attacker Machine in your VirtualBox Manager window. Both should now be launched, as the following image shows: \
+6. After Vagrant is done setting up the machines, you should have a Target Machine and an Attacker Machine in your VirtualBox Manager window. Both should now be launched, as the following image shows:
+
+   
+   ![Target_Attacker_Machines](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/de15e4a5-5326-48cc-bddd-bfdfe009bcd3)
 
 
-* You'll use the Attacker Machine to remotely access the Target Machine. The Attacker Machine window should automatically pop up once it's ready, as the following image shows: \
+* You'll use the Attacker Machine to remotely access the Target Machine. The Attacker Machine window should automatically pop up once it's ready, as the following image shows:
 
+  
+![Attacker_Machine](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/35a1de8d-e0f8-48b8-a287-54bedfaf4978)
 
 ### **Access Setup**
 
