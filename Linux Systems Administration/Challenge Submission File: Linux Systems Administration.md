@@ -88,8 +88,8 @@ redirected output.
 4. Provide a report from the Lynis output on what can be done to harden the system.
 
     - Screenshot of report output:
-![lynis screenshots](./lynis-all.png)
-[Lynis captured output](./lynis-output.txt)
+![lynis screenshots](./Lynis 1.png)
+
 
 
 
