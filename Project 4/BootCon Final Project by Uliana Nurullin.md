@@ -1,4 +1,4 @@
-To access full project, please follow the link below
+For complete project access, kindly navigate to the provided link below. Once there, you will find an interactive interface that allows you to seamlessly advance to the subsequent slide by simply clicking on the screen. I hope you thoroughly enjoy your experience!
 
 [BootCon Final Project by Uliana Nurullin](https://www.canva.com/design/DAFQ5hEZWzc/zGKiFJFFcUD9Y9YZ8LIW8w/view?presentation#1)
 
