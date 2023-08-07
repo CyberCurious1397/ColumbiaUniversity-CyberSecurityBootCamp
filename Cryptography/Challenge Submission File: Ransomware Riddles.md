@@ -1,4 +1,4 @@
-## Cryptography** **Challenge**: Ransomware Riddles**
+## Cryptography **Challenge**: Ransomware Riddles
 
 Make a copy of this document to work in, and then for each mission, add the solution below the prompt. Save and submit this completed file as your Challenge deliverable.
 
