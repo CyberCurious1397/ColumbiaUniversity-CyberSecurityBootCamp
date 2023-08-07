@@ -1,4 +1,5 @@
-To access full penetration test report, please follow the link below
+
+To obtain the complete penetration test report, I kindly request you to proceed by following the indicated link below.
 
 [Rekall Corporation Penetration Test Report by Uliana Nurullin](https://docs.google.com/document/d/1s7rySXfBKComOm2IiZoOYUWkCi_aAWqF7TMDzVbT5aU/edit?usp=sharing)
 
