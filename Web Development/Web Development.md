@@ -86,9 +86,10 @@ Use the following sample HTTP request and response to answer the questions in th
 * `User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36`
 * 
 
-    ```
-    username=Barbara&password=password
-    ```
+    
+    username = Barbara
+    password = password
+   
 
 
 1. What is the request method?
@@ -114,9 +115,6 @@ Use the following sample HTTP request and response to answer the questions in th
 * `X-XSS-Protection: 1; mode=block`
 * 
 
-    ```
-    [page content]
-    ```
 
 
 1. What is the response status code?
