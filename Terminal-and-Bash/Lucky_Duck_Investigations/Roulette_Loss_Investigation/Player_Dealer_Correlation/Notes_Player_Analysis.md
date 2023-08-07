@@ -30,6 +30,6 @@ Times of losses:
 
     0315_:02:00:00	PM  
 
-Same person was playing at the time of each loss : Mylie Schmidt
+Same person was playing at the time of each loss : ***Mylie Schmidt***
 
 Number of times Mylie Schmidt played is 13
