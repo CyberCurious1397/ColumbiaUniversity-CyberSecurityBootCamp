@@ -1,4 +1,4 @@
-To access full project, please follow the link below
+To gain comprehensive access to the entire project, we kindly request you to follow the designated link provided below.
 
 [Defensive Security Project by Uliana, Nara, Jamal, Crystal](https://docs.google.com/presentation/d/1clJbETp8ji8gHweG5BpJs5cWTZMdVSHU1ys0H8kUU8k/edit?usp=sharing)
 
