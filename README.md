@@ -25,3 +25,4 @@ Navigate easily through the quick links below to access each assignment and solu
 
 | Project Assignment  | Presentation | 
 | ------------- | ------------- | 
+| [Project 1 Build, Secure, and Protect a Web Application](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/blob/a88bcb04ee6118ef2b957b9f32ec8d0d6aa459c5/Project%201%20Securing%20Cloud%20Apps/Project%201%20%20%20Build%2C%20Secure%2C%20and%20Protect%20a%20Web%20Application.md) | [Cybersecurity Project 1 Technical Brief](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/blob/a88bcb04ee6118ef2b957b9f32ec8d0d6aa459c5/Project%201%20Securing%20Cloud%20Apps/Cybersecurity%20Project%201%20Technical%20Brief.md) |
