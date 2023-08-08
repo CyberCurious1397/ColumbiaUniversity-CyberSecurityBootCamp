@@ -137,26 +137,26 @@ This type of injection attack is called **command injection**, and it depends on
 ![Screenshot 2023-08-07 123819](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/ab39cebf-e79a-4047-9687-7984ad97fc13)
 
 
-    * Click "here" to install bWapp. (See the arrow in the previous screenshot.)
-    * After successfully installing bWapp, use the following credentials to log in:
+   Click "here" to install bWapp. (See the arrow in the previous screenshot.)
+   After successfully installing bWapp, use the following credentials to log in:
         * Login: `bee`
         * Password: `bug`
-    *
+    
 
 ![Screenshot 2023-08-07 123942](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/63cd113c-69f7-41e3-b944-eeb8bbf3ab54)
 
 
-    * This will take you to the "Portal" page, as the following image shows: \
+     This will take you to the "Portal" page, as the following image shows: 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 104410](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/7c819dc7-ba36-4989-bbd9-0a13e6b861fb)
 
-
-    * To access the application where you'll conduct the activity, enter the following URL: [http://192.168.13.35/ba_insecure_login_1.php](http://192.168.13.35/ba_insecure_login_1.php)
+     To access the application where you'll conduct the activity, enter the following URL: [http://192.168.13.35/ba_insecure_login_1.php](http://192.168.13.35/ba_insecure_login_1.php)
         * This will take you to the "Broken Auth - Insecure Login Forms" page, as the following image shows:
-    * 
+    
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+![Screenshot 2023-08-08 104426](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/61af7cf8-e5ef-4988-9cf6-3bdece0a67e6)
 
 
 2. This page is an administrative web application that serves as a simple login page. An administrator enters their username and password and selects "Login."
@@ -168,7 +168,7 @@ This type of injection attack is called **command injection**, and it depends on
         * List of Administrators:
 
     ```
-    1.  superman
+     1.  superman
      2.  loislane
      3.  spiderman
      4.  jennyjones
@@ -177,14 +177,14 @@ This type of injection attack is called **command injection**, and it depends on
      7.  peterparker
      8.  clarkkent
      9.  michaelsmith
+     10. henryhacker`
+
     ```
-
-
-    * ` 10. henryhacker`
+    
         * List of breached Passwords:
 
     ```
-    1.  Up, up and away!
+     1.  Up, up and away!
      2.  Avengers Assemble
      3.  Cowabunga! 
      4.  Here I come to Save the Day
@@ -193,12 +193,11 @@ This type of injection attack is called **command injection**, and it depends on
      7.  Courage is immortal
      8.  I am Iron Man
      9.  His Past. Our future
+     10. Change is coming`
+
     ```
-
-
-    * ` 10. Change is coming`
-4. **<span style="text-decoration:underline;">HINT</span>**
-5. In your M15 Challenge Submission File, paste a screenshot confirming that you successfully executed this exploit, and write two or three sentences outlining mitigation strategies for this vulnerability.
+ **<span style="text-decoration:underline;">HINT</span>**
+4. In your M15 Challenge Submission File, paste a screenshot confirming that you successfully executed this exploit, and write two or three sentences outlining mitigation strategies for this vulnerability.
 
 ## **Web Application 3: _Where's the BeEF?_**
 
@@ -207,15 +206,13 @@ This type of injection attack is called **command injection**, and it depends on
     * When the BeEF webpage opens, log in with the following credentials:
         * Username: `beef`
         * Password: `feeb`
-    * 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+           ![Screenshot 2023-08-08 104807](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/2ca00b58-3dee-4785-a98c-f288719832a8)
 
-
-    * You have successfully completed the setup when you reach the BeEF control panel, as shown in the following image: \
+    * You have successfully completed the setup when you reach the BeEF control panel, as shown in the following image: 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 104821](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/da866a1c-8bd8-43a0-891d-bd6cce700bf5)
 
 
 2. The **Browser Exploitation Framework (BeEF)** is a practical client-side attack tool that exploits web-browser vulnerabilities in order to assess the security posture of a target.
@@ -229,41 +226,40 @@ This type of injection attack is called **command injection**, and it depends on
         * Accessing system and network information from the victim's machine
 3. BeEF includes a feature that runs a simulation of an infected website.
     * To access this simulated infected website, locate the following sentence on the BeEF control panel: "To begin with, you can point a browser towards the basic demo page here, or the advanced version here."
-    * Click the second "here" to access the advanced version, as the following image shows: \
+    * Click the second "here" to access the advanced version, as the following image shows: 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 104840](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/a767f73e-5718-4d17-b0de-ee86e5d83ddf)
 
 
-    * This will open the website The Butcher, which has been infected with a BeEF hook, as the following image shows: \
+    * This will open the website The Butcher, which has been infected with a BeEF hook, as the following image shows: 
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 104851](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/9da8c3d3-5ed2-475a-8897-0281b676cc25)
 
 
     * Note that once you have pulled up this infected webpage, your browser has been hooked!
         * If your browser has not been hooked, restart your browser and try again.
-    * Return to the control panel. In the left-hand "Hooked Browsers" panel, notice that your browser has become infected since accessing the infected Butcher website. Note that if multiple browsers become infected, they will each be listed in this left-hand panel. Click the browser `127.0.0.1`. The "Details" tab will display information about the infected browser, as shown in the following screenshot: \
+    * Return to the control panel. In the left-hand "Hooked Browsers" panel, notice that your browser has become infected since accessing the infected Butcher website. Note that if multiple browsers become infected, they will each be listed in this left-hand panel. Click the browser `127.0.0.1`. The "Details" tab will display information about the infected browser, as shown in the following screenshot: 
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 105201](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/5a9d7aee-00bc-447f-bf18-330f8fe4d83c)
 
 
 4. Now, you're ready to test an exploit. To do so, complete the following steps:
     * Select the "Commands" tabs.
         * This will list folders of hundreds of exploits that can be run against the hooked browser. Note that many may not work, as they are dependent on the browser and security settings enabled.
     * First, you'll attempt a social engineering phishing exploit to create a fake Google login pop-up. You can use this to capture user credentials.
-    * To access this exploit, select "Google Phishing" within the "Social Engineering" folder, as the following image shows: \
+    * To access this exploit, select "Google Phishing" within the "Social Engineering" folder, as the following image shows: 
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 105211](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/f52caa0c-b9c2-4bcc-8c0e-638886b023cc)
 
 
-    * After selecting this option, the right-hand pane will display a description of the exploit and any dependencies or options, as the following image shows: \
+    * After selecting this option, the right-hand pane will display a description of the exploit and any dependencies or options, as the following image shows: 
 
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+![Screenshot 2023-08-08 105229](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/cbbaf13f-7dfd-48fa-9c34-0e0116ccbad3)
 
     * To launch the exploit, select "Execute" in the bottom-right corner.
         * After selecting "Execute," return to the browser that was displaying the Butcher Shop website. Note that it has changed to a Google login page.
@@ -271,15 +267,14 @@ This type of injection attack is called **command injection**, and it depends on
     * Let's find out what would happen if a victim entered their credentials. Use the following credentials to log in to the fake Google page:
         * Username: `hackeruser`
         * Password: `hackerpass`
-    * 
+    
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 105242](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/ef0ea811-2180-4d3d-9c13-7365d7c39d22)
+
+    * Return to the BeEF control panel. In the center pane ("Module Results History"), select the first option. Note that in the right-hand pane, the victim's username and password have now been captured by the attacker, as the following image shows: 
 
 
-    * Return to the BeEF control panel. In the center pane ("Module Results History"), select the first option. Note that in the right-hand pane, the victim's username and password have now been captured by the attacker, as the following image shows: \
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Screenshot 2023-08-08 105452](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/assets/105434347/9f97ec23-dbec-4b23-b10b-b20ff0bb1ffe)
 
 
 5. Now that you know how to use the BeEF tool, you'll use it to test the Replicants web application. You are tasked with using a stored XSS attack to inject a BeEF hook into Replicants's main website.
