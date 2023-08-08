@@ -21,3 +21,7 @@ Navigate easily through the quick links below to access each assignment and solu
 | [Windows Administration and Hardening](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/blob/3b073306e4efcff297f1c5e617e8f40ebb447f12/Windows%20Administration%20and%20Hardening/Windows%20Administration%20and%20Hardening.md) | [Account-Lockout-Policies](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/blob/3b073306e4efcff297f1c5e617e8f40ebb447f12/Windows%20Administration%20and%20Hardening/Account-Lockout-Policies.PNG) [Enum_acls](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/blob/3b073306e4efcff297f1c5e617e8f40ebb447f12/Windows%20Administration%20and%20Hardening/Enum_acls.ps1) [GPOs](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/blob/3b073306e4efcff297f1c5e617e8f40ebb447f12/Windows%20Administration%20and%20Hardening/GPOs.PNG) [Windows-PowerShell-Policies](https://github.com/CyberCuriosity8586/ColumbiaUniversity-CyberSecurityBootCamp/blob/3b073306e4efcff297f1c5e617e8f40ebb447f12/Windows%20Administration%20and%20Hardening/Windows-PowerShell-Policies.PNG) |
 
 
+## Projects
+
+| Project Assignment  | Presentation | 
+| ------------- | ------------- | 
